@@ -1,0 +1,12 @@
+.vscode
+.editorconfig
+.eslintrc.js
+.gitignore
+.npmignore
+tsconfig.*
+node_modules
+logs
+src
+testcase
+tmp
+static
